@@ -11,9 +11,9 @@ Method | HTTP request | Description
 # **wayfindingGet**
 > wayfindingGet(map, key, opts)
 
-search summary
+get a Wayfinding route using data from concept3D CMS
 
-search description
+Using a latitude/longitude for starting and ending points, find the preferred, quickest route to the destination.
 
 ### Example
 ```javascript
