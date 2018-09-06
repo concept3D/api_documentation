@@ -4,7 +4,7 @@ All URIs are relative to *https://dev.concept3d.com:8888*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------
-[**wayfindingGet**](WayfindingApi.md#wayfindingGet) | **GET** /wayfinding | search summary
+[**wayfindingGet**](WayfindingApi.md#wayfindingGet) | **GET** /wayfinding | concept3D wayfinding
 
 
 <a name="wayfindingGet"></a>
