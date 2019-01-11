@@ -150,7 +150,7 @@ All endpoints do not require authorization.
 
 Automated tests are configured in postman.
 
-### How to write tests
+### How to add dev environment variables
 
 1. Press _run in postman_ button at the top of this README doc.
 2. Open **Postman**
