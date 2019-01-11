@@ -145,3 +145,24 @@ All URIs are relative to _https://dev.concept3d.com:8888_
 ## Documentation for Authorization
 
 All endpoints do not require authorization.
+
+## Testing
+
+Automated tests are configured in postman.
+
+### How to write tests
+
+1. Press _run in postman_ button at the top of this README doc.
+2. Open **Postman**
+3. The AtlasBackendApi collection will open on the left side of the application.
+4. Import the dev envirment
+   &nbsp;&nbsp;1. Press the enviorment setting button in the top right corner.</br>
+   ![alt text](https://github.com/concept3D/api_documentation/blob/master/miscellaneous/Postman1.png)
+   &nbsp;&nbsp;2. Press import
+   ![alt text](https://github.com/concept3D/api_documentation/blob/master/miscellaneous/Postman2.png)
+   &nbsp;&nbsp;3. Download and Upload the postman environment found here:
+   '''
+   postman/dev.postman_environment.json
+   '''
+   &nbsp;&nbsp;4. Click the dropdown and change enviroment to dev
+   ![alt text](https://github.com/concept3D/api_documentation/blob/master/miscellaneous/Postman3.png)
