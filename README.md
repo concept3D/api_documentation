@@ -161,8 +161,8 @@ Automated tests are configured in postman.
    &nbsp;&nbsp;2. Press import
    ![alt text](https://github.com/concept3D/api_documentation/blob/master/miscellaneous/Postman2.png)
    &nbsp;&nbsp;3. Download and Upload the postman environment found here:
-   '''
+   ```
    postman/dev.postman_environment.json
-   '''
+   ```
    &nbsp;&nbsp;4. Click the dropdown and change enviroment to dev
    ![alt text](https://github.com/concept3D/api_documentation/blob/master/miscellaneous/Postman3.png)
