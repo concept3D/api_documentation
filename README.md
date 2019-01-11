@@ -1,7 +1,6 @@
 # atlas_backend_api
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/d626f5955e9a0e52d3c0)
-</br>Press Button to run postman
 
 AtlasBackendApi - JavaScript client for atlas_backend_api
 Atlas Backend API documentation with Swagger
